@@ -31,7 +31,7 @@ def build_conversation_prompt(chat_history, user_question):
 
 
 # --- Page header ---
-st.title("🤖 GPT-2 Chatbot (Hugging Face)")
+st.title("🤖 AI Chatbot (GPT-2)")
 st.caption(
     "A simple local chatbot using the `openai-community/gpt2` model. "
     "For better answers, you can swap it with a small instruction-tuned model."
